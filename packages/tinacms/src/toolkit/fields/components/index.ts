@@ -2,6 +2,7 @@ export * from './text-field';
 export * from './textarea';
 export * from './color-picker';
 export * from './toggle';
+export * from './toggle-group';
 export * from './select';
 export * from './radio-group';
 export * from './checkbox-group';
