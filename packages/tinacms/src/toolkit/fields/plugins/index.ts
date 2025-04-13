@@ -11,6 +11,7 @@ export * from './radio-group-field-plugin';
 export * from './textarea-field-plugin';
 export * from './text-field-plugin';
 export * from './toggle-field-plugin';
+export * from './toggle-group-field-plugin';
 export * from './tags-field-plugin';
 export * from './date-field-plugin';
 export * from './checkbox-group-field-plugin';
